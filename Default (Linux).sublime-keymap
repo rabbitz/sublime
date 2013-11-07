@@ -1,0 +1,4 @@
+[
+{ "keys": ["ctrl+`"], "command": "toggle_side_bar" },
+{ "keys": ["shift+enter"], "command": "toggle_full_screen" }
+]
